@@ -1,0 +1,2 @@
+# GetRichorDieTryin-backend
+PostgreSQL database
